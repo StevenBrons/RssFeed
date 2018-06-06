@@ -1,4 +1,5 @@
 /client/build
+yarn.lock
 
 # Created by https://www.gitignore.io/api/node,windows,visualstudiocode
 
